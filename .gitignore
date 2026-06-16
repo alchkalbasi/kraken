@@ -1,0 +1,5 @@
+.ansible
+.vscode
+
+# docker role
+roles/docker/files/config.json
